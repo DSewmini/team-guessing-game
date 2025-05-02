@@ -9,9 +9,9 @@ while True:
     if guess == number:
         print("You win!")
     else:
-        if guess < number;
+        if guess < number:
         print("Tool low"
-              elif guess > number;
+              elif guess > number:
               print("Tool high!")
         print(f"Wrong!The number was {number}")
     
